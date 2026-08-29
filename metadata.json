@@ -1,0 +1,6 @@
+{
+  "name": "记事本与生活助手",
+  "description": "集日历日程、任务管理、相机快拍与相册时间线于一体的清透玻璃拟态生活记事应用",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
